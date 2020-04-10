@@ -2,7 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Levitate Gamer Unofficial Website</title>
     </head>
     <body>
 <h1>Levitate gamer unofficial website</h1>
