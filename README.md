@@ -1,28 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-<style>
-    body{
-        background-color:rgb(0, 255, 242);
-    }
-    h1{
-        color:rgb(255, 0, 0);
-    }
-    h2{
-        color:rgb(8, 163, 0);
-        background-color:rgb(255, 0, 255);
-    }
-    h4{
-        color:rgb(122, 122, 122);
-    }
-    li{
-        color:rgb(255, 255, 255);
-        background-color:rgb(0, 0, 0);
-    }
-    p{
-        color:rgb(255, 0, 0);
-    }
-</style>
         <meta charset="utf-8">
         <title>Levitate Gamer Unofficial Website</title>
     </head>
